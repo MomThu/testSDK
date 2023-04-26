@@ -48,7 +48,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.MomThu'
-                artifactId = 'testsdk'
+                artifactId = 'testSDK'
                 version = '1.0.0'
             }
         }
